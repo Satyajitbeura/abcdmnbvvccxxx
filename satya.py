@@ -1,3 +1,1 @@
-print("satyajit is")
-print("bvbvbvbbvbbvbvbbvbvbbv")
-print("dhhfhhhfh")
+print("daratatatatatatttttttatatattattataaaaattt")
